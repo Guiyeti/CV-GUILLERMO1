@@ -1,0 +1,19 @@
+@import "variables";
+
+header, section, footer {
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: $header-background-color;
+  color: $color-header;
+
+  p, h1 {
+    color: $negro;
+  }
+
+  p {
+    margin-top: 2%;
+  }
+}

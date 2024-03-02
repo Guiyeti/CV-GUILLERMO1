@@ -1,0 +1,15 @@
+header, section, footer {
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #f2da8b;
+  color: #999999;
+}
+header p, header h1 {
+  color: black;
+}
+header p {
+  margin-top: 2%;
+}/*# sourceMappingURL=layout.css.map */
